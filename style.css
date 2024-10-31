@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h3{
+    color: rgb(255, 199, 225);
+}
+
+h2{
+    color: rgb(255, 139, 193);
+}
+
+header {
+    background-color: rgb(92, 92, 92)
+}
+
+a{
+    color: white;
+}
