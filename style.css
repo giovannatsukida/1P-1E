@@ -20,19 +20,12 @@ a{
     color: white;
 }
 
-.video1{
-    align-items: center;
-}
-
-.video2{
-    align-items: center;
-}
-
-.video3{
-    align-items: center;
-}
-
 .flamingo{
     display: flex;
     justify-content: center;
+}
+
+.video1, .video2, .video3 {
+    margin: 10px 0;
+    width: 80%;
 }
