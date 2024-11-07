@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(107, 43, 78);
+    background-color: rgb(185, 65, 115);
 }
 
 h3 {
-    color: rgb(250, 146, 207);
+    color: rgb(250, 146, 186);
     text-align: center;
 }
 
@@ -13,8 +13,14 @@ h2 {
 }
 
 header {
-    background-color: rgb(53, 53, 53);
+    background-color: rgb(226, 100, 148);
     color: white;
+    margin: 0px;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 a {
